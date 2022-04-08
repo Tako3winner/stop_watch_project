@@ -28,4 +28,4 @@
 
 ## こんなことを考えています。
 
-![StopWatch_脳内思想](https://user-images.githubusercontent.com/83353901/162444523-e8db6fbc-a620-4eb9-bb69-875543c3d7e0.png)
+![脳内思想](https://user-images.githubusercontent.com/83353901/162445271-a29cfdb4-75e5-4c71-a582-f1cbdd42022e.png)
